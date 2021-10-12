@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/62401080/137027283-9d75471c-63c6-4ad5-bdc5-6cdbc1190eb4.gif" alt="Shubham-banner">
 <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shubham Sangawat</h2>
 
-<p>I am currently pursuing Bachelors in Technology(B.Tech) in Information Technology from National Institute of Technology, Kurukshetra. I am very intent to learn about new technologies and i love the entire process learning new things.</p>
+<p>I am currently pursuing Bachelors in Technology(B.Tech) in Information Technology from National Institute of Technology, Kurukshetra. I am very intent to learn about new technologies and i love the entire process of learning new things.</p>
 
 <br>
 <h3 align="left"> 🤝 Connect with me:</h3>
